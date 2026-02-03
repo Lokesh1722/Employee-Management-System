@@ -1,20 +1,27 @@
 Project Description
 
 The Employee Management System is a SQL-based database project designed to manage and organize employee information efficiently. The system stores employee details, department data, job roles, salary information, and attendance records, enabling smooth data management and reporting for organizations.
+
 This project focuses on relational database design, data integrity, and optimized SQL queries for real-world business scenarios.
 
 Project Objectives
 
 Design a normalized relational database
+
 Store and manage employee records efficiently
+
 Perform CRUD operations using SQL
+
 Generate reports for HR and management
+
 Reduce data redundancy and ensure consistency
 
 Technologies Used
 
 Database: MySQL
+
 Language: SQL
+
 Tools: MySQL Workbench / phpMyAdmin
 
 Database Structure
