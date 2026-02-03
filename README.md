@@ -26,12 +26,12 @@ Tools: MySQL Workbench / phpMyAdmin
 
 Database Structure
 
-The database consists of the following tables:
-Employees – Employee personal and professional details
-Departments – Department information
-Roles – Job roles and designations
-Salaries – Salary details of employees
-Attendance – Employee attendance records
+The database consists of the following tables:               
+Employees – Employee personal and professional details            
+Departments – Department information              
+Roles – Job roles and designations                
+Salaries – Salary details of employees            
+Attendance – Employee attendance records                 
 
 Key Features
 
